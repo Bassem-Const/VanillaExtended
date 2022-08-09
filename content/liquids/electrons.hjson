@@ -1,0 +1,8 @@
+{
+	"name": "Electrons",
+	"description": "Charged particles.",
+        "details": "Should be a gas but this isn't the right version.\nAnd electrons in pipes is nonsense."
+        "effect": "shocked",
+        "viscosity": 0
+        "color": "efefff80"
+}
