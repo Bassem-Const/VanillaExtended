@@ -4,5 +4,5 @@
         "details": "Should be a gas but this isn't the right version.\nAnd protons in pipes is nonsense."
         "effect": "shocked",
         "viscosity": 0
-        "color": "efefff80"
+        "color": "df101080"
 }
