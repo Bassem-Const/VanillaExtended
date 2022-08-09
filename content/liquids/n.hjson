@@ -1,0 +1,7 @@
+{
+	"name": "Neutrons",
+	"description": "Neutral particles. Slightly heavier than protons.",
+        "details": "Should be a gas but this isn't the right version.\nNeutrons in pipes is nonsense, but makes a little more sense than the rest."
+        "viscosity": 0
+        "color": "ffffdf80"
+}
