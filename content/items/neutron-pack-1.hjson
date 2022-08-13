@@ -1,0 +1,6 @@
+{
+        name: "Contained Neutrons x1"
+        description: "Neutrons contained in a magnetic container."
+        details: Developer had to compromise because you can't output multiple liquids
+        radioactivity: 0.1
+}
