@@ -1,0 +1,6 @@
+{
+        name: "Contained Protons x9"
+        description: "Protons contained in a magnetic container."
+        details: Developer had to compromise because you can't output multiple liquids
+        charge: -9
+}
