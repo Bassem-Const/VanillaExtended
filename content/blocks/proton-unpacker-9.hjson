@@ -1,0 +1,29 @@
+
+type: GenericCrafter
+name: Proton Unpacker x9
+description: Unpacks a proton pack for it's particle contents.
+details: Compromises.
+size: 1
+liquidCapacity: 60
+hasPower: true
+hasItems: true
+hasLiquids: true
+updateEffect: smeltsmoke
+craftTime: 100
+consumes:{
+	power: 1.7
+	items: {
+		items:[
+			proton-pack-9
+		]
+	}
+}
+outputLiquid:{
+	liquid: p+
+	amount: 9.0
+	}
+requirements: [
+		copper/10
+		lead/10
+]
+category: crafting
